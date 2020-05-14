@@ -3,7 +3,7 @@
 include_once 'bootstrap.php';
 
 
-$preview = isset($_GET['myaktion']) && $_GET['myaktion'] == 'preview' ? true : false;
+$preview = false;
 
 $activeBallot = $manager->getActiveBallotResult($preview);
 if( $activeBallot !== null  ) {
