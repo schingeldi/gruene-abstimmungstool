@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://gruene-ts.de/wp-content/themes/urwahl3000/lib/images/body_bg.jpg);
+    background-position: center top;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+}
+
+a,
+a:hover,
+a:visited {
+    color: black;
+    font-style: italic;
+}

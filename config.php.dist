@@ -1,0 +1,15 @@
+<?php
+
+
+$db['USER'] = '';
+$db['PASSWORD'] = '';
+$db['HOST'] = '';
+$db['NAME'] = '';
+
+$mailer['PORT'] = '465';
+$mailer['HOST'] = '';
+$mailer['USERNAME'] = '';
+$mailer['PASSWORD'] = '';
+$mailer['AUTH_MODE'] = 'login';
+$mailer['ENCRYPTION'] = 'ssl';
+
